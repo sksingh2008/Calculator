@@ -43,7 +43,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>com.appclac.calcprocess</mainClass>
+						<mainClass>com.Calculator.Calculator</mainClass>
 					</manifest>
 				</archive>
 			</configuration>
